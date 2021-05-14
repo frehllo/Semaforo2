@@ -43,7 +43,7 @@ namespace Semaforo2
             t.Wait();
             Console.WriteLine($"Random : {c}");
             s = s + c;
-            Console.WriteLine($"Random : {s}");
+            Console.WriteLine($"Somma : {s}");
         }
     }
 }
